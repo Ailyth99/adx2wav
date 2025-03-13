@@ -1,3 +1,6 @@
+
+// ADX DOCUMENT (JAPANESE TEXT)
+//https://web.archive.org/web/20020203033404/http://ku-www.ss.titech.ac.jp/~yatsushi/adx.html
 package main
 
 import (
